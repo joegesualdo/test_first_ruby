@@ -29,3 +29,6 @@ end
 def power(x,y)
   x**y
 end
+
+def factorial(x)
+end
